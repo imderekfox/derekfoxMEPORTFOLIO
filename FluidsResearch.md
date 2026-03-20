@@ -2,7 +2,7 @@
 # Viscous Fingering Research
 **Multiphase Transport Research Lab — Northeastern University**
 *Undergraduate Research Assistant*
-
+![Research Team](https://raw.githubusercontent.com/imderekfox/derekfoxMEPORTFOLIO/main/images/researchteam.jpg)
 ---
 
 This work was presented as an oral talk at the **78th Annual Meeting of the 
